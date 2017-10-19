@@ -1,0 +1,3 @@
+rootProject.name = 'JustAnotherRadioStreaming'
+
+include ':app'
